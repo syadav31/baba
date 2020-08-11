@@ -4,3 +4,4 @@ learn git from zero to hero
 i hate pubg
 creating something
 hammayyaaa
+samsung
